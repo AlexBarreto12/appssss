@@ -1,0 +1,24 @@
+body
+{
+    background-image: url("depositphotos_46241387-stock-illustration-cartoon-seamless-colorful-cats.jpgu.jpg");
+text-align: center;
+}
+#app
+{
+    background-color: rgb(118, 154, 186);
+}
+#myCarousel
+{
+    background-color: rgb(178, 45, 45);
+}
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+carousel-inner p
+{
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
